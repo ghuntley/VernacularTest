@@ -1,0 +1,3 @@
+[submodule "Vernacular"]
+	path = Vernacular
+	url = https://github.com/jonathanpeppers/vernacular.git
